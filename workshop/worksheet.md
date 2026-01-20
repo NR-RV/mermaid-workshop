@@ -24,6 +24,7 @@ Design a simple class diagram for a library system with:
 ```mermaid
 classDiagram
     %% Your class diagram here
+    class coolClass {}
 ```
 
 ## Exercise 3: Sequence Diagram

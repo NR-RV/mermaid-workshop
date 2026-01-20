@@ -1,6 +1,8 @@
 # Mermaid.js Workshop
-
-[![Mermaid](https://img.shields.io/badge/Mermaid-10.6.1-ff3670)](https://mermaid.js.org/)
+Current verstion of gitlabs mermaid render:
+```mermaid
+info 
+```
 
 ## Quick Links
 

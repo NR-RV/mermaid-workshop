@@ -9,7 +9,7 @@ sequenceDiagram
     participant User
     participant Browser
     participant Server
-    
+
     User->>Browser: Enter URL
     Browser->>Server: HTTP Request
     Server->>Browser: HTTP Response
